@@ -1,21 +1,19 @@
 # Hengym
 
-**Hengym** is a proof-of-concept (PoC) coaching app for broke people who want a coach in the form of an application. The goal of this project is to build a real-world system to gain hands-on experience in modern DevOps/SRE practices by developing and containerizing both backend and frontend components.
-
+**Hengym** is coaching app for broke people who want a coach in the form of an application.
 ---
 
 ## Table of Contents
 
 - [Overview](#overview)
-- [Technology Stack](#technology-stack)
-- [Project Structure](#project-structure)
+- [Tech Stack](#technology-stack)
+- [Architecture](#project-structure)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Running Locally with Docker Compose](#running-locally-with-docker-compose)
-- [Backend Details](#backend-details)
-- [Frontend Details](#frontend-details)
-- [Feedback & Future Plans](#feedback--future-plans)
-- [Additional Documentation](#additional-documentation)
+- [Backend](#backend-details)
+- [Frontend](#frontend-details)
+- [Additional documentation](#additional-documentation)
 
 ---
 
@@ -29,7 +27,7 @@ Hengym is designed for broke people who want a coach at their fingertips. This P
 
 ---
 
-## Technology Stack
+## Tech Stack
 
 | Component           | Technology/Tool                   | Description                                                                      |
 | ------------------- | --------------------------------- | -------------------------------------------------------------------------------- |
