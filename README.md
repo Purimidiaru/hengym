@@ -1,6 +1,7 @@
 # Hengym
 
 **Hengym** is coaching app for broke people who want a coach in the form of an application.
+
 ---
 
 ## Table of Contents
@@ -46,3 +47,4 @@ Hengym is designed for broke people who want a coach at their fingertips. This P
 - [Kubernetes Documentation (for future deployments)](https://kubernetes.io/docs/)
 
 ---
+
